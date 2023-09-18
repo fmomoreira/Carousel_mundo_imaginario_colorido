@@ -15,7 +15,7 @@ Este é um projeto pessoal que criei para continuar praticando e mantendo minha 
 
 
 Clique no link abaixo para assistir a um vídeo demonstrativo do projeto em ação:
-[Assista ao vídeo](https://drive.google.com/file/d/1rDzfW2GSvNxCH2KgZKhiI2K3p9bTjtnp/view?usp=sharing)
+[Assista ao vídeo](https://www.youtube.com/embed/cpuLUxwYjBg)
 
 
 
