@@ -15,7 +15,16 @@ Este é um projeto pessoal que criei para continuar praticando e mantendo minha 
 
 
 Clique no link abaixo para assistir a um vídeo demonstrativo do projeto em ação:
-[Assista ao vídeo](https://www.youtube.com/embed/cpuLUxwYjBg)
+<iframe
+                          width="90%"
+                          height="auto"
+                          src=`https://www.youtube.com/embed/cpuLUxwYjBg`
+                          title="YouTube video player"
+                          frameBorder="0"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                          allowFullScreen
+                        ></iframe>
+
 
 
 
